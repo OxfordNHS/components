@@ -1,0 +1,8 @@
+{
+    "name": "Web Team Components",
+    "version": "0.0.1",
+    "ignore": [ ],
+    "dependencies": {
+        "normalize": "JohnAlbin/normalize-scss"
+    }
+}
