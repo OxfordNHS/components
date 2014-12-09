@@ -1,4 +1,8 @@
-@import "normalize";
+// Be sure to import normalize.  i've included a normal.scss file but this has issues with foundation
+// so you can use the _normalize.scss file that come with foundation and comment out the line below
+
+// comment this line if using a different _normalize.scss file in your project
+//@import "normalize";
 
 @mixin components_default_a{
     color:#007ac2;
